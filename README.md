@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm a software engineer and a small business owner with extensive experience in leading teams and planning software architectures and guidelines. 
+
+I developed a side project called MapsWalker, which helps users collect points of interest (POI) and keep them handy. Using advanced algorithms and AI, MapsWalker can generate new travel routes or find a restaurant for a drink after work.
+
+I have strong expertise in NodeJS and Flutter, both of which were utilized in my side project. In my current job, I have also gained substantial experience with PHP (Laravel).
+
+Passionate about technology and innovation, I'm always eager to connect with like-minded professionals. If you're interested, feel free to reach out to me or we could grab a cup of coffee and discuss further!
+
 <!--
 **DKMonster/DKMonster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
